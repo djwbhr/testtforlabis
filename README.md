@@ -28,30 +28,28 @@ animateToRegion(lat,long,deltla,deltlo)
 # UPD 21.07.24 21:00
 Нотификации с firebase
 <br/>
-![image](https://github.com/user-attachments/assets/cc365284-1985-4f11-b1e6-2e690b42029d)
+![image](https://github.com/user-attachments/assets/763e17c9-bf4a-4338-be6a-f508cedf4c52)
 работают как на эмуляторе:
 <br/>
-![image](https://github.com/user-attachments/assets/e166c3f7-1ac2-4286-a180-5d2d4893854d)
+![image](https://github.com/user-attachments/assets/0de97530-b4a3-4497-9714-1c12ceabf86d)
 <br/>
 так и на физ.устройстве:
 <br/>
-![image](https://github.com/user-attachments/assets/5aa1e990-599f-4e0d-8a98-783a600880d8)
+![image](https://github.com/user-attachments/assets/cdc1e0f0-4ffe-47e4-9a56-6395b6b3f10f)
 # Маркеры и карта через WebView
-![image](https://github.com/user-attachments/assets/e429105f-5888-4f21-b4a5-22c1808c65b8)
-<br/>
+![image](https://github.com/user-attachments/assets/c9ee87cb-312c-4e34-a608-43cd3a4a3062)
 ## Центрирование по названию
-![image](https://github.com/user-attachments/assets/5c42000b-9933-4be5-a015-f3c24295f9ff)
+![image](https://github.com/user-attachments/assets/492bf652-e460-41b6-a113-cc0eb67f40dc)
 ## Удаление/добавление маркера
 ### Удаление
-![image](https://github.com/user-attachments/assets/3dd5e65d-cbfd-41b4-87b3-c2afdf238b24)
+![image](https://github.com/user-attachments/assets/182fc17f-cda9-48eb-8bbe-e7aaad325d2c)
 <br/>
-![image](https://github.com/user-attachments/assets/0e08fd23-32ea-4864-b6c7-7d27d2e9bbfa)
-<br/>
-![image](https://github.com/user-attachments/assets/51952564-c262-4ef1-aa82-aeec65917ea9)
+![image](https://github.com/user-attachments/assets/83e9d739-8add-4396-8fe5-2acfabc72b59)
 ### Добавление по клику на карту
-![image](https://github.com/user-attachments/assets/3895d049-f6a9-4e31-9fdb-3510781e62df)
+![image](https://github.com/user-attachments/assets/c2a445ec-e47a-49d1-be12-a887fa261080)
 <br/>
-![image](https://github.com/user-attachments/assets/a066cfde-fc27-4779-9e25-837fa64f36e6)
+![image](https://github.com/user-attachments/assets/4c201acc-2319-4167-a2b3-eb447e6582c0)
 <br/>
+build: https://expo.dev/accounts/djwbhr/projects/testForLabis/builds/c3784e16-cd10-43cf-9ae2-8009f3dba84a
 
 
